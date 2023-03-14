@@ -1,0 +1,7 @@
+@inproceedings{REPO-260,
+    author = "He, Kaiming and Chen, Xinlei and Xie, Saining and Li, Yanghao and Doll{\'a}r, Piotr and Girshick, Ross",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "16000--16009",
+    title = "{Masked Autoencoders are Scalable Vision Learners}",
+    year = "2022"
+}
